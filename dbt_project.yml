@@ -36,4 +36,4 @@ models:
   jaffle_shop:
     +materialized: view
 
-    #added comment to show additionak commit
+    #added comment to show additional commit
